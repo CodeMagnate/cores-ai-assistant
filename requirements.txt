@@ -1,0 +1,13 @@
+# Versions as used in the original 2024 research prototype
+langchain==0.1.0
+openai
+tiktoken
+faiss-cpu
+python-dotenv
+requests
+pdfplumber
+PyMuPDF
+python-docx
+docx2txt
+pytesseract
+pillow
